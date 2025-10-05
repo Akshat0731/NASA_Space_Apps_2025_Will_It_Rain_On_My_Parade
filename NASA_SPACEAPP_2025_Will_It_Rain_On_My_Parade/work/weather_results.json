@@ -1,0 +1,28 @@
+{
+    "analysis": {
+        "location": {
+            "lat": 21.1702,
+            "lon": 72.8311
+        },
+        "date": "05-15",
+        "period": "2015-2024",
+        "years_with_data": 10
+    },
+    "probabilities": [
+        {
+            "condition": "precipitation_gt_1",
+            "event_count": 0,
+            "probability": 0.0
+        },
+        {
+            "condition": "heatwave (3 consecutive days > 39.0\u00b0C)",
+            "event_count": 7,
+            "probability": 70.0
+        },
+        {
+            "condition": "muggy_day (temp > 32.0\u00b0C AND humidity > 70.0%)",
+            "event_count": 0,
+            "probability": 0.0
+        }
+    ]
+}
